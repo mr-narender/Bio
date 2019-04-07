@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Narender's Portfolio
 
-You can use the [editor on GitHub](https://github.com/nar3nd3r/nar3nd3r/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nar3nd3r/nar3nd3r/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can use this page to browse through my current activities or so what I have been doing so far. I just recently started working on this, so it might take a while for me to get things setup, but now that you're here, I would like to thank you for your time.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+That being said, if you have any questions or suggestions for me, feel free to drop me a [mail](mailto:narender@unix.net). I'm always here to hear a suggestion or feedback, and I shall get back to you as soon as I can.
+
+
+### But again,
+Thank you so much for your time.
