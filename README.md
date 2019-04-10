@@ -98,7 +98,7 @@ You can use this page to browse through my current activities or so what I have 
         <tr>
             <td width="100%">
                 <h3>MAY 2009</h3>
-                <h2>BACHELOR OF TECHNOLOGY, <strong>PUNJAB TECHNICAL UNIVERSITY</strong></h2>
+                <h3>BACHELOR OF TECHNOLOGY, <strong>PUNJAB TECHNICAL UNIVERSITY</strong></h3>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduated in Computer Science</p>
             </td>
         </tr>
