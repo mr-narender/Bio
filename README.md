@@ -49,7 +49,7 @@ You can use this page to browse through my current activities or so what I have 
         <tr>
             <td width="100%">
                 <h3>2018/04</h3>
-                <h2>TECHNICAL LEAD, <strong>HARMAN CONNECTED SERVICES</strong></h2>
+                <h4>TECHNICAL LEAD, <strong>HARMAN CONNECTED SERVICES</strong></h4>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Healthcare web application development using Python/Django and React.</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implementing and helping with Dev-ops Integration (Docker/Kubernetes Integration).</p>
             </td>
@@ -58,7 +58,7 @@ You can use this page to browse through my current activities or so what I have 
             <td width="100%">
                 <h3>&nbsp;</h3>
                 <h3>2017/09 &ndash; 2018/03</h3>
-                <h2>MODULE LEAD, <strong>MINDTECK</strong></h2>
+                <h4>MODULE LEAD, <strong>MINDTECK</strong></h4>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NetApp Storage codebase application automation</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Requirement gathering, low-level designing, client interaction, across team coordination.</p>
             </td>
@@ -66,7 +66,7 @@ You can use this page to browse through my current activities or so what I have 
         <tr>
             <td width="100%">
                 <h3>2014/12 &ndash; 2017/09</h3>
-                <h2>SOFTWARE ENGINEER, <strong>ORACLE</strong></h2>
+                <h4>SOFTWARE ENGINEER, <strong>ORACLE</strong></h4>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agile and Scrum involved Automation and Test Framework Development</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Responsible for security and penetration while standard implementation.</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Server configuration and management(Apache/MySQL)</p>
@@ -77,7 +77,7 @@ You can use this page to browse through my current activities or so what I have 
         <tr>
             <td width="100%">
                 <h3>2014/09 &ndash; 2014/12</h3>
-                <h2>LEAD ENGINEER, <strong>HCL</strong></h2>
+                <h4>LEAD ENGINEER, <strong>HCL</strong></h4>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Console application development for server configuration and management</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developed applications and scripts for build and release Engineering</p>
             </td>
@@ -85,7 +85,7 @@ You can use this page to browse through my current activities or so what I have 
         <tr>
             <td width="100%">
                 <h3>2011/06 &ndash; 2014/08</h3>
-                <h2>PROJECT ENGINEER, <strong>WIPRO</strong></h2>
+                <h4>PROJECT ENGINEER, <strong>WIPRO</strong></h4>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Development for automation suite for system testing.</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implementing automation framework</p>
             </td>
@@ -98,7 +98,7 @@ You can use this page to browse through my current activities or so what I have 
         <tr>
             <td width="100%">
                 <h3>MAY 2009</h3>
-                <h3>BACHELOR OF TECHNOLOGY, <strong>PUNJAB TECHNICAL UNIVERSITY</strong></h3>
+                <h4>BACHELOR OF TECHNOLOGY, PUNJAB TECHNICAL UNIVERSITY</h4>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduated in Computer Science</p>
             </td>
         </tr>
@@ -108,10 +108,10 @@ You can use this page to browse through my current activities or so what I have 
 <p>References are available on request.</p>
 </html>
 
-### Support or Contact
+## Support or Contact
 
 That being said, if you have any questions or suggestions for me, feel free to drop me a [mail](mailto:narender@unix.net). I'm always here to hear a suggestion or feedback, and I shall get back to you as soon as I can.
 
 
-### But again,
+## But again,
 Thank you so much for your time.
