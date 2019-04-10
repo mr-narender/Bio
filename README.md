@@ -24,7 +24,7 @@ You can use this page to browse through my current activities or so what I have 
 <table width="100%" cellspacing="0" cellpadding="0" id="skills_table">
     <tbody>
         <tr>
-            <td width="100%">
+            <td width="50%">
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agile and Scrum methodology</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python (NumPy, Pandas, Django, Zeep, etc)</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perl</p>
@@ -32,7 +32,7 @@ You can use this page to browse through my current activities or so what I have 
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bash and Shell Scripting</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL, PostgreSQL</p>
             </td>
-            <td width="100%">
+            <td width="50%">
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git, Mercurial</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NodeJS/React</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript/jQuery</p>
