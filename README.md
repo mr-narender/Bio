@@ -10,7 +10,7 @@ You can use this page to browse through my current activities or so what I have 
             <td width="624">
                 <p>NARENDER <strong>SINGH</strong></p>
                 <p>Bengaluru, Karnataka, India &middot; +91-914-817-0021</p>
-                <p>nar3nd3r@icloud.com &middot;linkedin.com/in/nar3nd3r &middot;narender.pro</p>
+                <p>nar3nd3r@icloud.com;&nbsp&middot;&nbsplinkedin.com/in/nar3nd3r;&nbsp&middot;&nbspnarender.pro</p>
             </td>
         </tr>
         <tr>
