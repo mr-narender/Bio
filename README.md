@@ -3,7 +3,8 @@
 You can use this page to browse through my current activities or so what I have been doing so far.
 
 ## CV/Resume/Profile
-<table width="100%" cellspacing="0" cellpadding="0" style="border: none; text-align: center;">
+<html>
+<table width="100%" cellspacing="0" cellpadding="0" id="header_table">
     <tbody>
         <tr>
             <td width="624">
@@ -20,7 +21,7 @@ You can use this page to browse through my current activities or so what I have 
     </tbody>
 </table>
 <h1>SKILLS</h1>
-<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
+<table width="100%" cellspacing="0" cellpadding="0" id="skills_table">
     <tbody>
         <tr>
             <td width="312">
@@ -43,7 +44,7 @@ You can use this page to browse through my current activities or so what I have 
     </tbody>
 </table>
 <h1>EXPERIENCE</h1>
-<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
+<table width="100%" cellspacing="0" cellpadding="0" id="experience_table">
     <tbody>
         <tr>
             <td width="619">
@@ -92,7 +93,7 @@ You can use this page to browse through my current activities or so what I have 
     </tbody>
 </table>
 <h1>EDUCATION</h1>
-<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
+<table width="100%" cellspacing="0" cellpadding="0" id="education_table">
     <tbody>
         <tr>
             <td width="619">
@@ -105,7 +106,7 @@ You can use this page to browse through my current activities or so what I have 
 </table>
 <h1>REFERENCE:</h1>
 <p>References are available on request.</p>
-
+</html>
 
 ### Support or Contact
 
