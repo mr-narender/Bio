@@ -24,7 +24,7 @@ You can use this page to browse through my current activities or so what I have 
 <table width="100%" cellspacing="0" cellpadding="0" id="skills_table">
     <tbody>
         <tr>
-            <td width="312">
+            <td width="100%">
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agile and Scrum methodology</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python (NumPy, Pandas, Django, Zeep, etc)</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perl</p>
@@ -32,7 +32,7 @@ You can use this page to browse through my current activities or so what I have 
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bash and Shell Scripting</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL, PostgreSQL</p>
             </td>
-            <td width="312">
+            <td width="100%">
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git, Mercurial</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NodeJS/React</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JavaScript/jQuery</p>
@@ -47,7 +47,7 @@ You can use this page to browse through my current activities or so what I have 
 <table width="100%" cellspacing="0" cellpadding="0" id="experience_table">
     <tbody>
         <tr>
-            <td width="619">
+            <td width="100%">
                 <h3>2018/04</h3>
                 <h2>TECHNICAL LEAD, <strong>HARMAN CONNECTED SERVICES</strong></h2>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Healthcare web application development using Python/Django and React.</p>
@@ -55,7 +55,7 @@ You can use this page to browse through my current activities or so what I have 
             </td>
         </tr>
         <tr>
-            <td width="619">
+            <td width="100%">
                 <h3>&nbsp;</h3>
                 <h3>2017/09 &ndash; 2018/03</h3>
                 <h2>MODULE LEAD, <strong>MINDTECK</strong></h2>
@@ -64,7 +64,7 @@ You can use this page to browse through my current activities or so what I have 
             </td>
         </tr>
         <tr>
-            <td width="619">
+            <td width="100%">
                 <h3>2014/12 &ndash; 2017/09</h3>
                 <h2>SOFTWARE ENGINEER, <strong>ORACLE</strong></h2>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agile and Scrum involved Automation and Test Framework Development</p>
@@ -75,7 +75,7 @@ You can use this page to browse through my current activities or so what I have 
             </td>
         </tr>
         <tr>
-            <td width="619">
+            <td width="100%">
                 <h3>2014/09 &ndash; 2014/12</h3>
                 <h2>LEAD ENGINEER, <strong>HCL</strong></h2>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Console application development for server configuration and management</p>
@@ -83,7 +83,7 @@ You can use this page to browse through my current activities or so what I have 
             </td>
         </tr>
         <tr>
-            <td width="619">
+            <td width="100%">
                 <h3>2011/06 &ndash; 2014/08</h3>
                 <h2>PROJECT ENGINEER, <strong>WIPRO</strong></h2>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Development for automation suite for system testing.</p>
@@ -96,7 +96,7 @@ You can use this page to browse through my current activities or so what I have 
 <table width="100%" cellspacing="0" cellpadding="0" id="education_table">
     <tbody>
         <tr>
-            <td width="619">
+            <td width="100%">
                 <h3>MAY 2009</h3>
                 <h2>BACHELOR OF TECHNOLOGY, <strong>PUNJAB TECHNICAL UNIVERSITY</strong></h2>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduated in Computer Science</p>
