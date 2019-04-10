@@ -20,7 +20,7 @@ You can use this page to browse through my current activities or so what I have 
         </tr>
     </tbody>
 </table>
-<h1>SKILLS</h1>
+<h2>SKILLS</h2>
 <table width="100%" cellspacing="0" cellpadding="0" id="skills_table">
     <tbody>
         <tr>
@@ -43,7 +43,7 @@ You can use this page to browse through my current activities or so what I have 
         </tr>
     </tbody>
 </table>
-<h1>EXPERIENCE</h1>
+<h2>EXPERIENCE</h2>
 <table width="100%" cellspacing="0" cellpadding="0" id="experience_table">
     <tbody>
         <tr>
@@ -92,7 +92,7 @@ You can use this page to browse through my current activities or so what I have 
         </tr>
     </tbody>
 </table>
-<h1>EDUCATION</h1>
+<h2>EDUCATION</h2>
 <table width="100%" cellspacing="0" cellpadding="0" id="education_table">
     <tbody>
         <tr>
@@ -104,7 +104,7 @@ You can use this page to browse through my current activities or so what I have 
         </tr>
     </tbody>
 </table>
-<h1>REFERENCE:</h1>
+<h2>REFERENCE:</h2>
 <p>References are available on request.</p>
 </html>
 
