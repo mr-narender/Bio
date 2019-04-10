@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: author's bio
+description: story telling about author
+logo: assets/image/self.png
+show_downloads: true
