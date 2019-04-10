@@ -2,8 +2,8 @@
 
 You can use this page to browse through my current activities or so what I have been doing so far.
 
-## Resume/Cv/Profile
-<table width="100%">
+## CV/Resume/Profile
+<table width="100%" cellspacing="0" cellpadding="0" style="border: none; text-align: center;">
     <tbody>
         <tr>
             <td width="624">
@@ -20,7 +20,7 @@ You can use this page to browse through my current activities or so what I have 
     </tbody>
 </table>
 <h1>SKILLS</h1>
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
     <tbody>
         <tr>
             <td width="312">
@@ -43,7 +43,7 @@ You can use this page to browse through my current activities or so what I have 
     </tbody>
 </table>
 <h1>EXPERIENCE</h1>
-<table width="99%">
+<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
     <tbody>
         <tr>
             <td width="619">
@@ -92,7 +92,7 @@ You can use this page to browse through my current activities or so what I have 
     </tbody>
 </table>
 <h1>EDUCATION</h1>
-<table width="99%">
+<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
     <tbody>
         <tr>
             <td width="619">
@@ -105,6 +105,7 @@ You can use this page to browse through my current activities or so what I have 
 </table>
 <h1>REFERENCE:</h1>
 <p>References are available on request.</p>
+
 
 ### Support or Contact
 
