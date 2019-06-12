@@ -15,7 +15,7 @@ You can use this page to browse through my current activities or so what I have 
         </tr>
         <tr>
             <td width="624">
-                <p>An open source enthusiastic, a full-stack developer having a forward-thinking and result oriented attitude, with 8 years of well-rounded experience in web application development. Demonstrable experience in building, integrating, unit testing, while supporting applications in telecom, storage, and healthcare, with a passion for machine learning and cloud services.</p>
+                <p>An open source enthusiast full-stack developer having a forward-thinking and result oriented attitude, with 9 years of well-rounded experience in web and system application development. Demonstrable experience in building, integrating, unit testing, while supporting applications in telecom, storage, and healthcare, with a passion for machine learning and cloud services.</p>
             </td>
         </tr>
     </tbody>
