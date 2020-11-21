@@ -2,20 +2,21 @@
 
 You can use this page to browse through my current activities or so what I have been doing so far.
 
-## CV/Resume/Profile
+## Profile
 <html>
 <table width="100%" cellspacing="0" cellpadding="0" id="header_table">
     <tbody>
         <tr>
             <td width="624">
                 <p>NARENDER <strong>SINGH</strong></p>
-                <p>Bengaluru, Karnataka, India &middot; +91-914-817-0021</p>
-                <p>nar3nd3r@icloud.com&nbsp;&middot;&nbsp;linkedin.com/in/nar3nd3r&nbsp;&middot;&nbsp;narender.pro</p>
+                <p>Quebec, Canada &middot; +1 (581) 922-0017</p>
+                <p>nar3nd3r@gmail.com&nbsp;&middot;&nbsp;linkedin.com/in/nar3nd3r&nbsp;&middot;&nbsp;devpy.ml</p>
             </td>
         </tr>
         <tr>
             <td width="624">
-                <p>An open source enthusiast full-stack developer having a forward-thinking and result oriented attitude, with 9 years of well-rounded experience in web and system application development. Demonstrable experience in building, integrating, unit testing, while supporting applications in telecom, storage, and healthcare, with a passion for machine learning and cloud services.</p>
+                <p>An open source enthusiastic, full-stack developer having a forward-thinking and result oriented attitude, with a decade of well-rounded experience in web application development.
+Demonstrable understanding of system engineering, experience in building, integrating, unit testing, while supporting applications in telecom, storage, and healthcare, with a passion for machine learning and cloud services.</p>
             </td>
         </tr>
     </tbody>
@@ -48,10 +49,24 @@ You can use this page to browse through my current activities or so what I have 
     <tbody>
         <tr>
             <td width="100%">
+                <h3>2020/02</h3>
+                <h4>WEB DEVELOPER, <strong>CONCEPTION RO MAIN</strong></h4>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web and AI integrated application development</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Create RESTFUL API's and App infrastructure for Agriculture products.</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dev-ops Integration for Prod/Staging via Docker/Kubernetes Integration.</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintains unit tests and test driven development (via PyTest)</p>
+            </td>
+        </tr>
+        <tr>
+            <td width="100%">
                 <h3>2018/04</h3>
                 <h4>TECHNICAL LEAD, <strong>HARMAN CONNECTED SERVICES</strong></h4>
-                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Healthcare web application development using Python/Django and React.</p>
-                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implementing and helping with Dev-ops Integration (Docker/Kubernetes Integration).</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Integrated IDP with Auth0, PingFederate, PingOne (For e.g. via SAML Integration)</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Created RESTFUL API's and App infrastructure for healthcare application using Python/Django and React.</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dev-ops Integration for Prod/Staging via Docker/Kubernetes Integration.</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adhered to agile environment utilizing a test-driven development approach (via PyTest)</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintaining project schedule and technical documentation and acted as liaison between business, QA and
+                development team</p>
             </td>
         </tr>
         <tr>
@@ -59,35 +74,36 @@ You can use this page to browse through my current activities or so what I have 
                 <h3>&nbsp;</h3>
                 <h3>2017/09 &ndash; 2018/03</h3>
                 <h4>MODULE LEAD, <strong>MINDTECK</strong></h4>
-                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NetApp Storage codebase application automation</p>
-                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Requirement gathering, low-level designing, client interaction, across team coordination.</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NetApp Storage codebase application development.</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Formulated and implementing plans for development.</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Established unit testing styling for code coverage and test automation.</p>
             </td>
         </tr>
         <tr>
             <td width="100%">
                 <h3>2014/12 &ndash; 2017/09</h3>
                 <h4>SOFTWARE ENGINEER, <strong>ORACLE</strong></h4>
-                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agile and Scrum involved Automation and Test Framework Development</p>
-                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Responsible for security and penetration while standard implementation.</p>
-                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Server configuration and management(Apache/MySQL)</p>
-                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Console based application development for Oracle databases 12c/11g with RMAN Backup</p>
-                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Travelled internationally and overseas as per business needs</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Involved in web application development for smooth test suite management</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accounted for security and penetration for ZFS storage appliance.</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DevOps integration for in house testing</p>
             </td>
         </tr>
         <tr>
             <td width="100%">
                 <h3>2014/09 &ndash; 2014/12</h3>
                 <h4>LEAD ENGINEER, <strong>HCL</strong></h4>
-                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Console application development for server configuration and management</p>
-                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developed applications and scripts for build and release Engineering</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Designed console based applications for server configuration and management</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Developed applications and scripts for build and release engineering</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Formulated architectural strategy for code deployment</p>
             </td>
         </tr>
         <tr>
             <td width="100%">
                 <h3>2011/06 &ndash; 2014/08</h3>
                 <h4>PROJECT ENGINEER, <strong>WIPRO</strong></h4>
-                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Development for automation suite for system testing.</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Helped with development for automation suite for system testing.</p>
                 <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implementing automation framework</p>
+                <p>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consistent code reviews and bug fixes for proprietary codebase</p>
             </td>
         </tr>
     </tbody>
